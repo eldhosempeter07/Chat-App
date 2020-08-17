@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "848268086276",
+    "firebase_url": "https://flash-chat-3fe6d.firebaseio.com",
+    "project_id": "flash-chat-3fe6d",
+    "storage_bucket": "flash-chat-3fe6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848268086276:android:ac2ba00549ab11d00c7951",
+        "android_client_info": {
+          "package_name": "co.believerSoul.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848268086276-75622pbckp3r0sqmaj4adku80ff8gjls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJzlCGUiIuHOoYafv2y-We3pmfrgEGGng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848268086276-75622pbckp3r0sqmaj4adku80ff8gjls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
